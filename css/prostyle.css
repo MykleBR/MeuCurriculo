@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to top,#0026FA, #0053E0, #008FF5, #0BB3DE, #0DFFFB);
+    margin-top: 0%;
+    padding-top: 0%;
+    border-top: 0px;
+}
+.rounded-circle{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+#myCarousel{
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.carousel-inner{
+    border-radius: 25px;     
+}
+.carousel-caption{
+    color: rgb(12, 12, 12);
+    font-size: large;
+}
+.nav-item{
+    font-size: 20px;
+}
+
